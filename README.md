@@ -1,3 +1,5 @@
+*N.B.* Sparkfun no longer maintains the upstream `SparkFun-KiCad-Libraries` repo. This fork is identical to the upstream, except I also add updated Sparkfun parts, as I need them. 
+
 SparkFun Electronics KiCad Libraries
 ====================================
 
